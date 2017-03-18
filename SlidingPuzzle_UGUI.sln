@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DADD8565-4295-62B3-3FEC-C661C175DD9B}") = "SlidingPuzzle_UGUI", "Assembly-CSharp.csproj", "{94C7F40D-90E0-BB30-BFAC-045660D588FE}"
+EndProject
+Project("{DADD8565-4295-62B3-3FEC-C661C175DD9B}") = "SlidingPuzzle_UGUI", "Assembly-CSharp-Editor.csproj", "{3C7442B8-64CB-D031-7D3F-86A08AAE8B72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C7F40D-90E0-BB30-BFAC-045660D588FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C7F40D-90E0-BB30-BFAC-045660D588FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C7F40D-90E0-BB30-BFAC-045660D588FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C7F40D-90E0-BB30-BFAC-045660D588FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7442B8-64CB-D031-7D3F-86A08AAE8B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7442B8-64CB-D031-7D3F-86A08AAE8B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7442B8-64CB-D031-7D3F-86A08AAE8B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7442B8-64CB-D031-7D3F-86A08AAE8B72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
